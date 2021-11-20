@@ -56,7 +56,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* WEBPACK VAR INJECTION */(f
 /*! exports provided: author, brand, owner, nav, read, version, months, copyright, default */
 /***/ (function(module) {
 
-eval("module.exports = JSON.parse(\"{\\\"author\\\":\\\"卡克曼科技有限公司\\\",\\\"brand\\\":\\\"卡克曼科技\\\",\\\"owner\\\":\\\"張超群（Noel）\\\",\\\"nav\\\":{\\\"home\\\":\\\"首頁\\\",\\\"about\\\":\\\"關於\\\",\\\"review\\\":\\\"紀事\\\",\\\"service\\\":\\\"服務\\\",\\\"contact\\\":\\\"聯繫\\\"},\\\"read\\\":\\\"詳閱內文\\\",\\\"version\\\":\\\"版本：\\\",\\\"months\\\":\\\"月\\\",\\\"copyright\\\":\\\"版權聲明 © 卡克曼科技有限公司 版權所有。\\\"}\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2xhbmd1YWdlcy96aC9jb21tb24uanNvbi5qcyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./languages/zh/common.json\n");
+eval("module.exports = JSON.parse(\"{\\\"author\\\":\\\"卡克曼科技有限公司\\\",\\\"brand\\\":\\\"卡克曼科技\\\",\\\"owner\\\":\\\"張超群（Noel）\\\",\\\"nav\\\":{\\\"home\\\":\\\"首頁\\\",\\\"about\\\":\\\"關於\\\",\\\"review\\\":\\\"紀事\\\",\\\"service\\\":\\\"服務\\\",\\\"contact\\\":\\\"聯繫\\\"},\\\"read\\\":\\\"詳閱內文\\\",\\\"version\\\":\\\"版本：\\\",\\\"months\\\":\\\"個月\\\",\\\"copyright\\\":\\\"版權聲明 © 卡克曼科技有限公司 版權所有。\\\"}\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2xhbmd1YWdlcy96aC9jb21tb24uanNvbi5qcyIsInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./languages/zh/common.json\n");
 
 /***/ }),
 

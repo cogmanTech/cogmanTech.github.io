@@ -1539,6 +1539,10 @@ textarea {
   color: #8c8c8c;
   font-style: italic; }
 
+.page#review .page_section.section-content .container_tech {
+  margin-bottom: 0.25rem;
+  color: #8c8c8c; }
+
 .page#service .section-service {
   padding: 0rem;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(67, 67, 67, 0.8)), to(rgba(67, 67, 67, 0.8))), url("/static/service.jpg");
