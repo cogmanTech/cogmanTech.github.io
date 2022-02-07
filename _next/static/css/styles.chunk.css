@@ -1627,6 +1627,106 @@ textarea {
         font-weight: 700;
         color: #141414; }
 
+.page#recruit .page_section.section-recruit {
+  padding: 0rem;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(67, 67, 67, 0.8)), to(rgba(67, 67, 67, 0.8))), url("/static/recruit.jpg");
+  background-image: linear-gradient(rgba(67, 67, 67, 0.8), rgba(67, 67, 67, 0.8)), url("/static/recruit.jpg");
+  background-repeat: no-repeat;
+  background-size: cover, cover;
+  background-position: center;
+  height: 50vh;
+  width: 100%;
+  display: -ms-flexbox;
+  display: -webkit-box;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: center;
+      justify-content: center;
+  -ms-flex-align: center;
+      align-items: center; }
+  .page#recruit .page_section.section-recruit .service_text {
+    margin: 0rem;
+    margin-top: 0.5rem;
+    font-size: 20px;
+    line-height: 1.25;
+    color: #fafafa; }
+  .page#recruit .page_section.section-recruit .container_title {
+    margin: 0rem;
+    color: #fafafa; }
+
+.page#recruit .page_section.section-description {
+  padding-bottom: 0; }
+
+.page#recruit .page_section.section-list {
+  padding-top: 0; }
+  .page#recruit .page_section.section-list .list_divider {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    color: #8c8c8c; }
+    @media (min-width: 768px) {
+      .page#recruit .page_section.section-list .list_divider {
+        margin-bottom: 2rem;
+        margin-top: 2rem; } }
+  .page#recruit .page_section.section-list .list_item .item_shell {
+    display: -ms-flexbox !important;
+    display: -webkit-box !important;
+    display: flex !important; }
+    .page#recruit .page_section.section-list .list_item .item_shell .shell_card {
+      border-color: #bfbfbf;
+      border-style: solid;
+      border-width: 1px;
+      border-radius: 0.5rem;
+      margin-bottom: 0.75rem;
+      margin-top: 0.75rem;
+      -webkit-box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+              box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+      overflow: hidden;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+      display: -ms-flexbox;
+      display: -webkit-box;
+      display: flex;
+      -ms-flex-direction: column;
+      flex-direction: column; }
+      .page#recruit .page_section.section-list .list_item .item_shell .shell_card .card_head {
+        padding-bottom: calc((9 / 16) * 100%);
+        background-position: center; }
+      .page#recruit .page_section.section-list .list_item .item_shell .shell_card .card_body {
+        padding: 1rem;
+        -ms-flex-positive: 1;
+            flex-grow: 1; }
+        .page#recruit .page_section.section-list .list_item .item_shell .shell_card .card_body .body_date {
+          color: #8c8c8c; }
+        .page#recruit .page_section.section-list .list_item .item_shell .shell_card .card_body .body_title {
+          font-size: 20px;
+          line-height: 1.25; }
+        .page#recruit .page_section.section-list .list_item .item_shell .shell_card .card_body .body_brief {
+          text-align: left; }
+      .page#recruit .page_section.section-list .list_item .item_shell .shell_card .card_foot {
+        padding: 1rem; }
+
+.page#recruit .contact_link {
+  font-size: 18px;
+  line-height: 1.25;
+  color: #434343;
+  text-decoration: none;
+  display: -ms-inline-flexbox;
+  display: -webkit-inline-box;
+  display: inline-flex;
+  -ms-flex-align: center;
+      align-items: center;
+  vertical-align: text-bottom; }
+  .page#recruit .contact_link:hover, .page#recruit .contact_link:active {
+    color: #ff0f0f; }
+  .page#recruit .contact_link .link_icon {
+    font-size: 24px;
+    line-height: 1.5;
+    vertical-align: middle; }
+    .page#recruit .contact_link .link_icon + .link_text {
+      margin-left: 0.5rem;
+      vertical-align: middle; }
+
 .page#contact .section-contact {
   padding: 0rem;
   background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(67, 67, 67, 0.8)), to(rgba(67, 67, 67, 0.8))), url("/static/contact.jpg");
