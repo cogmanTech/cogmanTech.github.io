@@ -1557,14 +1557,12 @@ textarea {
     flex-direction: column; }
     .page#review .page_section.section-content .container_projects .projects_card.card-closed .card_durance {
       color: #bfbfbf; }
-    .page#review .page_section.section-content .container_projects .projects_card .card_durance {
-      color: #141414; }
     .page#review .page_section.section-content .container_projects .projects_card .card_type {
-      margin-bottom: 0.25rem;
-      color: #141414; }
+      margin-bottom: 0.25rem; }
     .page#review .page_section.section-content .container_projects .projects_card .card_content {
       -ms-flex-positive: 1;
-          flex-grow: 1; }
+          flex-grow: 1;
+      margin-bottom: 0.5rem; }
     .page#review .page_section.section-content .container_projects .projects_card .card_tech {
       margin: 0;
       -ms-flex-negative: 0;
