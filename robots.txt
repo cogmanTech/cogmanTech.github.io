@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Host: https://cogmantech.github.io/
-Sitemap: https://cogmantech.github.io/sitemap.xml
+Host: https://www.cogman.org/
+Sitemap: https://www.cogman.org/sitemap.xml
