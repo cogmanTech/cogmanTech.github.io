@@ -1,0 +1,14 @@
+webpackHotUpdate_N_E("pages/zh/about",{
+
+/***/ "./languages/zh/about.json":
+/*!*********************************!*\
+  !*** ./languages/zh/about.json ***!
+  \*********************************/
+/*! exports provided: title, description, events, default */
+/***/ (function(module) {
+
+eval("module.exports = JSON.parse(\"{\\\"title\\\":\\\"關於卡克曼\\\",\\\"description\\\":[\\\"卡克曼致力於軟體開發相關議題，除了提供客製化軟體開發服務，也提供圖隊建置、職涯諮商、決策分析、異業合作，針對不同需求與客戶狀況，提供適性服務，不只幫您開發，更以夥伴的立場為出發點，為您的長期發展設想更多！\\\",\\\"秉持著有效解決問題為導向的客製化服務態度，客戶可以在決定是否使用卡克曼的服務之前，先進行討論與諮詢，讓卡克曼協助找到更適合的解決方案，而後再決定是否委託卡克曼，讓需求得到最佳化處理！\\\",\\\"不只是客戶，更是夥伴。\\\"],\\\"events\\\":{\\\"2021-10\\\":{\\\"cogman_develop_angular\\\":{\\\"title\\\":\\\"增加支援 Angular 開發\\\",\\\"img\\\":\\\"BTB_Angular.png\\\",\\\"description\\\":\\\"前端開發的服務項目，經過評估，決定將 Angular 納入常規的前端開發服務項目。\\\"}},\\\"2021-09\\\":{\\\"cogman_backend_development\\\":{\\\"title\\\":\\\"增加支援後端開發服務\\\",\\\"img\\\":\\\"COGMAN.png\\\",\\\"description\\\":\\\"關於後端開發的服務，除了原有的遠端主機建置之外，決定將 Google Cloud Platform（GCP）、Dockerize、Node、PHP，納入常規的後端開發服務項目。\\\"}},\\\"2020-12\\\":{\\\"cogman_established\\\":{\\\"title\\\":\\\"卡克曼科技有限公司\\\",\\\"img\\\":\\\"COGMAN.png\\\",\\\"description\\\":\\\"事隔成立 Btb Lab. 後三年，決定創立卡克曼科技有限公司，在此之前，Btb Lab. 以個人身分提供開發支援，除了提供原有的開發服務之外，卡克曼也提供圍繞在團隊建置議題的相關顧問服務，以及職涯相關的諮商服務。\\\"}},\\\"2019-09\\\":{\\\"btb_develop_js\\\":{\\\"title\\\":\\\"增加純 JavaScript 開發\\\",\\\"img\\\":\\\"BTB_JavaScript.png\\\",\\\"description\\\":\\\"在與後端工程師合作開發一段時間後，Btb Lab. 思考一些不需要倚重前端框架的邏輯應用，因此著手幾項基於純粹 JavaScript 的應用開發，不僅提供前端開發使用，亦能提供同樣使用 JavaScript 的 Node.js 使用。\\\"}},\\\"2018-11\\\":{\\\"btb_develop_vue\\\":{\\\"title\\\":\\\"增加支援 Vue 開發\\\",\\\"img\\\":\\\"BTB_Vue.png\\\",\\\"description\\\":\\\"幸運地，在與使用 Vue 開發的團隊合作後，Btb Lab. 也決定加入 Vue 組件的開發，雖然大多數套件都還沒有發布至 NPM，但也成為了日後基於 Vue 開發的基礎。\\\"}},\\\"2018-01\\\":{\\\"btb_develop_react\\\":{\\\"title\\\":\\\"增加支援 React 開發\\\",\\\"img\\\":\\\"BTB_React.png\\\",\\\"description\\\":\\\"在開始開發 React 的組件，並發布在 NPM 作為開源組件前，主要專注在建構開發組件的環境，如 Webpack, Gulp, Rollup，一番努力後，誕生了 Btb Lab.的第一個開源 UI 套件：blacktbox-list。\\\"}},\\\"2017-12\\\":{\\\"btb_established\\\":{\\\"title\\\":\\\"Btb Lab.\\\",\\\"img\\\":\\\"BTB_Basic.png\\\",\\\"description\\\":\\\"於 2017 年 12 月時，成立了 Black Tool Box Laboratory ，並作為一個實驗性質的開發實驗室，以前端開發作為起始開發點，主要開發一些模組、套件、應用，做為日後提供客製化開發的基礎，前端開發只是一個開始，開始實驗一些如何更通用性的開發模組、套件、應用，作為之後客製化開發時，可以減少一些客製化修改幅度或者成本。甚至可以降低第三方開發的依賴度，也預期未來會在適當的時機點，加入後端開發的高客製化支援度的模組、套件或者應用。\\\"}}}}\");//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL2xhbmd1YWdlcy96aC9hYm91dC5qc29uLmpzIiwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./languages/zh/about.json\n");
+
+/***/ })
+
+})
