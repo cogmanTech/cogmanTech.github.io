@@ -1,4 +1,5 @@
-User-agent: *
+User-Agent: *
 Allow: /
+
 Host: https://www.cogman.org/
 Sitemap: https://www.cogman.org/sitemap.xml
