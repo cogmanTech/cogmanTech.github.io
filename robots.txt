@@ -1,5 +1,6 @@
 User-Agent: *
 Allow: /
+Disallow: /images
 
 Host: https://www.cogman.org/
 Sitemap: https://www.cogman.org/sitemap.xml
