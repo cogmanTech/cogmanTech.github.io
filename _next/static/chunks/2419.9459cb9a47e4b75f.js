@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[2419],{2419:function(e){e.exports=JSON.parse('{"meta":{"title":"合作夥伴","description":"卡克曼承接的案子，大多都是非公開性質的委託，除此之外，我們跟客戶合作關係，本身預設也是不公開，即使如此，我們還是會列出一些經客戶同意公開的合作關係。"},"description":"卡克曼承接的案子，大多都是非公開性質的委託，除此之外，我們跟客戶合作關係，本身預設也是不公開，即使如此，我們還是會列出一些經客戶同意公開的合作關係。","":""}')}}]);
